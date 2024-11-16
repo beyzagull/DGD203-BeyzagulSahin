@@ -1,0 +1,14 @@
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\bin\Debug\net9.0\CarGame.exe
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\bin\Debug\net9.0\CarGame.deps.json
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\bin\Debug\net9.0\CarGame.runtimeconfig.json
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\bin\Debug\net9.0\CarGame.dll
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\bin\Debug\net9.0\CarGame.pdb
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.AssemblyInfoInputs.cache
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.AssemblyInfo.cs
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.dll
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\refint\CarGame.dll
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.pdb
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\CarGame.genruntimeconfig.cache
+C:\Users\azazl\OneDrive\Masaüstü\CarGame\CarGame\obj\Debug\net9.0\ref\CarGame.dll
